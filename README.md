@@ -24,3 +24,9 @@ The storage is S3.
 docker compose build
 docker compose up
 ```
+
+3. Get the Nginx image as a sample.
+
+```sh
+docker pull nginx:latest
+```
